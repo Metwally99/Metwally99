@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Mahmoud Metwally — AI engineering and automation</title>
+<desc id="desc">Navy banner with a teal circuit illustration.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1729"/><stop offset="1" stop-color="#15334b"/></linearGradient></defs>
+<rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+<path d="M0 213 H1200" stroke="#63e6c6" stroke-opacity=".2"/>
+<path d="M831 0v91h85v52h93V55h124M903 260v-53h95v-43h99v-43h103M1009 143h123v34h68" fill="none" stroke="#63e6c6" stroke-opacity=".24" stroke-width="2"/>
+<circle cx="916" cy="91" r="5" fill="#63e6c6"/><circle cx="1009" cy="143" r="5" fill="#63e6c6"/><circle cx="1097" cy="121" r="5" fill="#63e6c6"/><circle cx="998" cy="207" r="5" fill="#63e6c6"/>
+<text x="65" y="63" fill="#63e6c6" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">AI ENGINEERING  /  AUTOMATION  /  BACKEND</text>
+<text x="65" y="132" fill="#f5fbff" font-family="Arial,sans-serif" font-size="53" font-weight="700">Mahmoud Metwally</text>
+<text x="67" y="172" fill="#b9d0df" font-family="Arial,sans-serif" font-size="23">Building practical AI systems, one workflow at a time.</text>
+<text x="67" y="240" fill="#85a8b9" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">PYTHON   ·   LLM WORKFLOWS   ·   SQL   ·   APIS</text>
+</svg>
