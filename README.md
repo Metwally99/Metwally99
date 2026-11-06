@@ -10,20 +10,6 @@ I study AI Engineering at **Galala University**. My work brings together machine
 
 ## Selected work
 
-### PulseCore · Regulatory document automation
-**AI Engineering Internship · GIG Insurance Egypt**
-
-Built a workflow to monitor the Egyptian FRA portal and extract structured data from scanned Arabic insurance-broker decrees. It validates records, sends failed extractions through a correction pass, and routes unresolved cases for review.
-
-`Python` `Gemini Vision` `Flask` `SQLite` `Excel`
-
-### Agentic-DB · Conversational database assistant
-**Team project**
-
-Contributed to an assistant that translates natural-language requests into structured database tool calls. The application supports SQL analysis and includes read-only controls and user review of staged changes.
-
-`Python` `LLM tool calling` `SQL` `Flask`
-
 ### DocMind · Document question answering
 **Backend Engineering Internship · EVAS**
 
@@ -31,13 +17,34 @@ Built a document assistant with PDF ingestion, vector retrieval, and streamed an
 
 `React` `Node.js` `PostgreSQL` `pgvector` `Docker`
 
-### SMS Spam Detection · Public notebook
+### [PulseCore · Regulatory document automation](https://github.com/Metwally99/pulsecore-case-study)
+**AI Engineering Internship · GIG Insurance Egypt**
 
-Explored text preprocessing, TF-IDF features, and classification models for spam detection. The notebook and its current setup notes are available in the repository.
+Built a workflow to monitor the Egyptian FRA portal and extract structured data from scanned Arabic insurance-broker decrees, with validation, correction, and human review.
 
-**[View the project →](https://github.com/Metwally99/nlp-sms-spam-detection)**
+`Python` `Gemini Vision` `Flask` `SQLite` `Excel` · **[Read the case study →](https://github.com/Metwally99/pulsecore-case-study)**
+
+### [Agentic-DB · Conversational database assistant](https://github.com/Metwally99/agentic-db)
+**Team project**
+
+Contributed to an assistant that translates natural-language requests into database tool calls, with read-only controls and review of staged changes.
+
+`Python` `LLM tool calling` `SQL` `Flask` · **[Explore the repository →](https://github.com/Metwally99/agentic-db)**
+
+### [IoTBlue · HR management system](https://github.com/Metwally99/iotblue-hr-system)
+
+A full-stack system for employee, attendance, and leave management, combining a Go API, PostgreSQL, and a React frontend.
+
+`Go` `PostgreSQL` `React` `Docker` · **[Explore the repository →](https://github.com/Metwally99/iotblue-hr-system)**
+
+### More projects
+
+- **[NexusTrade](https://github.com/Metwally99/nexustrade-kbs)** — A knowledge-based trading system using rules, a graph database, and Flask.
+- **[House Price ML](https://github.com/Metwally99/house-price-ml)** — House-price prediction using neural networks and a Flask interface.
+- **[SMS Spam Detection](https://github.com/Metwally99/nlp-sms-spam-detection)** — Text preprocessing, TF-IDF features, and classification models.
 
 ---
+
 
 ## Tools I work with
 
